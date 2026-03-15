@@ -1,4 +1,4 @@
-from puzzle_problem.Puzzle8Problem import Puzzle8Problem
+from puzzle.Puzzle8Problem import Puzzle8Problem
 from informadas.AStar import AStar
 
 if __name__ == "__main__":
